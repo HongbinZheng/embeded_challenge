@@ -1,3 +1,7 @@
+//Bingbing Chen, netid: bc3285
+//Yufeng Duan, netid: yd2284
+//Han Lin, netid: hl4827
+//Hongbin Zheng, netid: hz3322
 #include "aht10.h"
 using namespace std;
 
